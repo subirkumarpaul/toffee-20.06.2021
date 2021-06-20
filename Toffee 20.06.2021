@@ -61,6 +61,10 @@ https://streamer-1.toffeelive.com/mobile_hls/colors_hd/5/04dfcf51f5f17bc7739a41f
 https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,SONY MAX
 https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY MAX 2
+https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,SONY Wah
+https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Zee Cinema
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Zee Action
@@ -137,8 +141,8 @@ https://streamer-1.toffeelive.com/mobile_hls/sonic/5/04dfcf51f5f17bc7739a41f294e
 https://streamer-1.toffeelive.com/mobile_hls/sony_pix/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Bflix
 https://streamer-1.toffeelive.com/mobile_hls/bflix/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1,Sony Mix
-https://streamer-1.toffeelive.com/mobile_hls/sony_mix/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,MTV
+https://streamer-1.toffeelive.com/mobile_hls/mtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,9X0
 https://streamer-1.toffeelive.com/mobile_hls/9xo/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Music India
