@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Sangshodh TV
+https://streamer-1.toffeelive.com/mobile_hls/btv_sangshodh/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Channel I
 https://streamer-1.toffeelive.com/mobile_hls/channel_i/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Somoy News
