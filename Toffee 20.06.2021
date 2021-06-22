@@ -103,6 +103,10 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth/5/04dfcf51f5f17bc773
 https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Discovery
 https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Discovery Science
+https://streamer-1.toffeelive.com/mobile_hls/dis_science/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Discovery Turbo
+https://streamer-1.toffeelive.com/mobile_hls/dis_turbo/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Animal Planet
 https://streamer-1.toffeelive.com/mobile_hls/animal_planet/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Animal Planet HD
@@ -159,4 +163,5 @@ https://streamer-1.toffeelive.com/mobile_hls/mtv/5/04dfcf51f5f17bc7739a41f294e2a
 https://streamer-1.toffeelive.com/mobile_hls/mtv_beats_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Quran Tv
 https://streamer-1.toffeelive.com/mobile_hls/quran_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-
+#EXTINF:-1,
+https://streamer-1.toffeelive.com/mobile_hls/sunnah_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
