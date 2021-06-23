@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1,Toffee Live 1
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_01_576&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Toffee Live 1
+https://streamer-1.toffeelive.com/mobile_hls/sports_live_01/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Toffee Live 2
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_02_576&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Toffee Live 2
+https://streamer-1.toffeelive.com/mobile_hls/sports_live_02/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Sangshodh TV
 https://streamer-1.toffeelive.com/mobile_hls/btv_sangshodh/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Channel I
