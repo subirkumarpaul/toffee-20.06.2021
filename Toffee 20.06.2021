@@ -172,6 +172,8 @@ https://streamer-1.toffeelive.com/mobile_hls/e24/5/04dfcf51f5f17bc7739a41f294e2a
 https://streamer-1.toffeelive.com/mobile_hls/vh1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,ARY Music
 https://streamer-1.toffeelive.com/mobile_hls/ary_music/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,ARY Digital Asia
+https://streamer-1.toffeelive.com/mobile_hls/ary_digital_asia/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,ARY QTV
 https://streamer-1.toffeelive.com/mobile_hls/ary_qtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Quran TV
