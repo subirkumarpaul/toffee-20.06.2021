@@ -261,52 +261,102 @@ https://streamer-1.toffeelive.com/?bitrate=512000&channel=cgtn_720&user=748e9204
 #EXTINF:-1,CGTN
 https://streamer-1.toffeelive.com/mobile_hls/cgtn/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Al Jazeera
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=aljazeera_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Al Jazeera
 https://streamer-1.toffeelive.com/mobile_hls/aljazeera/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,PTV World
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=ptv_world_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,PTV World
 https://streamer-1.toffeelive.com/mobile_hls/ptv_world/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,DW
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=dw_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,DW
 https://streamer-1.toffeelive.com/mobile_hls/dw/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,NHK World
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=nhk_world_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,NHK World
 https://streamer-1.toffeelive.com/mobile_hls/nhk_world/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,TV5 Monde Asia
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=tv5_monde_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,TV5 Monde Asia
 https://streamer-1.toffeelive.com/mobile_hls/tv5_monde/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Euro News
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=euro_news_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Euro News
 https://streamer-1.toffeelive.com/mobile_hls/euro_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,CCTV 4
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=cctv_4_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,CCTV 4
 https://streamer-1.toffeelive.com/mobile_hls/cctv_4/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Rai Italia
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=rai_italia_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Rai Italia
 https://streamer-1.toffeelive.com/mobile_hls/rai_italia/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Hum Masala
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=hum_masala_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Hum Masala
 https://streamer-1.toffeelive.com/mobile_hls/hum_masala/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Discovery Kids
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=discovery_kids_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Discovery Kids
 https://streamer-1.toffeelive.com/mobile_hls/discovery_kids/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Sony YaY
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=sony_yay_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Sony YaY
 https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Nick
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=nick_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Nick
 https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Nick HD
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=nick_hd_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Nick HD
 https://streamer-1.toffeelive.com/mobile_hls/nick_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Nick JR
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=nick_junior_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Nick JR
 https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Sonic
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=sonic_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Sonic
 https://streamer-1.toffeelive.com/mobile_hls/sonic/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,MTV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=mtv_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,MTV
 https://streamer-1.toffeelive.com/mobile_hls/mtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,MTV beats
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=mtv_beats_hd_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,MTV beats
 https://streamer-1.toffeelive.com/mobile_hls/mtv_beats_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,E24
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=e24_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,E24
 https://streamer-1.toffeelive.com/mobile_hls/e24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,VH1 HD
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=vh1_hd_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,VH1 HD
 https://streamer-1.toffeelive.com/mobile_hls/vh1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,ARY Music
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=ary_music_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,ARY Music
 https://streamer-1.toffeelive.com/mobile_hls/ary_music/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,ARY Digital Asia
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=ary_digital_asia_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,ARY Digital Asia
 https://streamer-1.toffeelive.com/mobile_hls/ary_digital_asia/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,ARY Family
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=ary_family_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,ARY Family
 https://streamer-1.toffeelive.com/mobile_hls/ary_family/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,ARY QTV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=ary_qtv_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,ARY QTV
 https://streamer-1.toffeelive.com/mobile_hls/ary_qtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Quran TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=quran_tv_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Quran TV
 https://streamer-1.toffeelive.com/mobile_hls/quran_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Sunnah TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=sunnah_tv_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Sunnah TV
 https://streamer-1.toffeelive.com/mobile_hls/sunnah_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
