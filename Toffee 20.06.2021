@@ -9,33 +9,63 @@ https://streamer-1.toffeelive.com/?bitrate=512000&channel=sports_live_02_720&use
 #EXTINF:-1,Toffee Live 2
 https://streamer-1.toffeelive.com/mobile_hls/sports_live_02/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Sangshodh TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=btv_sangshodh_720&user=748e920475c8167decb7565f97bangla
+#EXTINF:-1,Sangshodh TV
 https://streamer-1.toffeelive.com/mobile_hls/btv_sangshodh/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Channel I
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=channel_i_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Channel I
 https://streamer-1.toffeelive.com/mobile_hls/channel_i/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,NTV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=ntv_b_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,NTV
 https://streamer-1.toffeelive.com/mobile_hls/ntv_b/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Boishakhi TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=boishakhi_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Boishakhi TV
 https://streamer-1.toffeelive.com/mobile_hls/boishakhi/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Bijoy TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=bijoy_tv_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Bijoy TV
 https://streamer-1.toffeelive.com/mobile_hls/bijoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Desh TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=desh_tv_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Desh TV
 https://streamer-1.toffeelive.com/mobile_hls/desh_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Ananda TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=ananda_tv_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Ananda TV
 https://streamer-1.toffeelive.com/mobile_hls/ananda_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Bangla TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=bangla_tv_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Bangla TV
 https://streamer-1.toffeelive.com/mobile_hls/bangla_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,MY TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=my_tv_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,MY TV
 https://streamer-1.toffeelive.com/mobile_hls/my_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Somoy News
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=somoy_tv_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Somoy News
 https://streamer-1.toffeelive.com/mobile_hls/somoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Channel 24
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=channel_24_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Channel 24
 https://streamer-1.toffeelive.com/mobile_hls/channel_24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,News 24 HD
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=news24hd_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,News 24 HD
 https://streamer-1.toffeelive.com/mobile_hls/news24hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,DBC News
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=dbc_news_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,DBC News
 https://streamer-1.toffeelive.com/mobile_hls/dbc_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Ekattor TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=ekattor_hd_720&user=748e920475c8167decb7565f975b6468
+#EXTINF:-1,Ekattor TV
 https://streamer-1.toffeelive.com/mobile_hls/ekattor_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1,Independent TV
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=independent_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Independent TV
 https://streamer-1.toffeelive.com/mobile_hls/independent/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Akaash Aath
